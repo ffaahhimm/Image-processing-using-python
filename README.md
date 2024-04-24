@@ -1,0 +1,1 @@
+I used Python alongside OpenCV and NumPy for image processing. I focused on enhancing images, detecting objects, and segmenting regions. Through this, I demonstrated proficiency in Python and practical skills in image analysis. Tackling various challenges, I deepened my understanding of image processing methods.
